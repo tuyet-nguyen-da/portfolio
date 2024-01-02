@@ -14,51 +14,36 @@ const homeConfig = {
         "Data Analyst"
     ],
     about: {
-        start: "I've been working for over six years on data science projects. " +
-            "I'm excited by learning new things, contributing to the data science community," +
-            " and spreading the word of data!",
-        exit: "I'm fluent at Python, SQL databases, BI tools, and more, " +
-            "with a deep interest in machine learning."
+        start: "I'm a passionate data analyst, equipped with a Bachelor's degree in Computer Information Systems, and I thrive on the art of turning data into actionable insights. My academic journey laid the foundation for my skills in Excel, SQL, Python, and Tableau, which I've further honed through real-life projects. ",
+        exit: "Beyond the technical realm, my experience in customer service has enriched my attention to detail, problem-solving abilities, and effective communication skills, making me a valuable collaborator."
     },
     workTimeline: [
         {
             id: "work-3",
-            title: "Sr Data Scientist",
-            company: "Globant",
-            description: "Build AutoML models and make them available to non-technical " +
-                "users from a graphical interface.",
-            date: "2021-present",
+            title: "CareerFoundy bootcamp",
+            company: "Data Analytics Program",
+            description: "Gain a rigorous education in data analysis, testing, visualization, dashboarding, querying, and solve real customer problems",
+            date: "01/2023-12/2023",
             icon: <DiCodeigniter/>,
-            tags: ["ml", "automl", "python", "docker", "redshift", "superset"]
+            tags: ["tableau", "SQL", "Excel", "Python", "Pandas", "Numpy"]
         },
         {
             id: "work-2",
-            title: "BI Manager",
-            company: "Rappi",
-            description: "Leading a team of analysts and data scientists to execute different projects, " +
-                "including the construction of ETLs, data lakes, data warehouses, and machine learning models.",
-            date: "2019-2021",
+            title: "Vietnamese Interpreter",
+            company: "LATN Language Solutions ",
+            description: "•	Facilitate communication between English and Vietnamese speakers in a wide range of industries",
+            date: "2021-2023",
             icon: <FaMobileAlt/>,
-            tags: ["ml", "airflow", "python", "docker", "snowflake", "postgres", "azure"]
+            tags: []
         },
         {
             id: "work-1",
-            title: "CRM Analytics Coordinator",
-            company: "Avianca",
-            description: "Tech leader of a BI, Data Science and DBA team. " +
-                "Build forecast models, data warehouse and Power BI dashboards.",
-            date: "2018-2019",
+            title: "Georgia State Universisty",
+            company: "Bachelor's degree in Computer Information Systems",
+            description: "",
+            date: "2017-2021",
             icon: <GiCommercialAirplane/>,
-            tags: ["ml", "mssql", "python", "docker", "pbi", "azure"]
-        },
-        {
-            id: "work-0",
-            title: "BI Analyst",
-            company: "Onelink BPO",
-            description: "Build interactive dashboards, ETLs and SQL queries to show the company KPIs.",
-            date: "2016-2018",
-            icon: <BsClipboardData/>,
-            tags: ["python", "mssql", "pbi", "excel"]
+            tags: []
         }
     ]
 }

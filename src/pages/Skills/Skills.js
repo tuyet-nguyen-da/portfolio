@@ -18,15 +18,6 @@ const Skills = () => {
                             <SkillsItems config={skillsConfig.mainSkills}/>
                         </div>
                     </AttentionSeeker>
-
-                    <h1 className="complementary-skills-h1">
-                        <span className="complementary-skills"><strong>Complementary Skills & Tools</strong></span>
-                    </h1>
-                    <AttentionSeeker effect={"bounce"}>
-                        <div className="complementary-skills">
-                            <SkillsItems config={skillsConfig.complementarySkills}/>
-                        </div>
-                    </AttentionSeeker>
                 </div>
             </div>
         </section>

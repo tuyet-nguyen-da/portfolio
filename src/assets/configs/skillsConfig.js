@@ -13,7 +13,9 @@ import {
     SiSnowflake,
     SiApacheairflow,
     SiApachekafka,
-    SiPowerbi
+    SiPowerbi,
+    SiMicrosoftexcel,
+    SiTableau 
 } from "react-icons/si";
 import {GrMysql} from "react-icons/gr";
 import {FaGitAlt} from "react-icons/fa";
@@ -37,26 +39,14 @@ const skillsConfig = {
         {
             id: "skills-2",
             className: "skill-icon",
-            icon: <SiMicrosoftsqlserver size={50}/>,
-            text: "MSSQL"
+            icon: <SiMicrosoftexcel  size={50}/>,
+            text: "Excel"
         },
         {
             id: "skills-3",
             className: "skill-icon",
-            icon: <SiDocker size={50}/>,
-            text: "Docker"
-        },
-        {
-            id: "skills-4",
-            className: "skill-icon",
-            icon: <SiMicrosoftazure size={50}/>,
-            text: "Azure"
-        },
-        {
-            id: "skills-5",
-            className: "skill-icon",
-            icon: <FaGitAlt size={50}/>,
-            text: "Git"
+            icon: <SiTableau size={50}/>,
+            text: "Tableau"
         }
     ],
     complementarySkills: [
