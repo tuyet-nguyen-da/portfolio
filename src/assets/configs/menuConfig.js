@@ -5,6 +5,7 @@ import {
     AiFillHome,
     AiOutlineGithub
 } from "react-icons/ai";
+import { GrDocumentText } from "react-icons/gr";
 
 import {BsMedium} from "react-icons/bs";
 
@@ -32,7 +33,15 @@ const menuConfig = {
             path: "/skills",
             icon: <AiFillCode size={35}/>,
             className: "nav-text"
-        }
+        },
+        {
+            id: "menu-3",
+            title: "Resume",
+            path: "/resume",
+            icon: <GrDocumentText size={35}/>,
+            className: "nav-text"
+        },
+
     ]
 
 }
