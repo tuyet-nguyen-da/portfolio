@@ -1,10 +1,10 @@
 {
-  "main.css": "/portfolio/static/css/main.96d5061c.chunk.css",
-  "main.js": "/portfolio/static/js/main.27b2d7a7.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.27b2d7a7.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.39cb20da.chunk.css",
+  "main.js": "/portfolio/static/js/main.4325cd86.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.4325cd86.chunk.js.map",
   "static/css/1.80d32188.chunk.css": "/portfolio/static/css/1.80d32188.chunk.css",
-  "static/js/1.868be596.chunk.js": "/portfolio/static/js/1.868be596.chunk.js",
-  "static/js/1.868be596.chunk.js.map": "/portfolio/static/js/1.868be596.chunk.js.map",
+  "static/js/1.44e8f9fe.chunk.js": "/portfolio/static/js/1.44e8f9fe.chunk.js",
+  "static/js/1.44e8f9fe.chunk.js.map": "/portfolio/static/js/1.44e8f9fe.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
   "static/media/sklearn_genetic_opt.png": "/portfolio/static/media/sklearn_genetic_opt.23273bc8.png",
@@ -19,9 +19,9 @@
   "static/media/scikit_pipes.png": "/portfolio/static/media/scikit_pipes.8ba027d9.png",
   "static/media/portfolio.png": "/portfolio/static/media/portfolio.4b632d51.png",
   "static/media/pigbank.PNG": "/portfolio/static/media/pigbank.18a2497c.PNG",
+  "static/css/main.39cb20da.chunk.css.map": "/portfolio/static/css/main.39cb20da.chunk.css.map",
   "static/css/1.80d32188.chunk.css.map": "/portfolio/static/css/1.80d32188.chunk.css.map",
-  "static/css/main.96d5061c.chunk.css.map": "/portfolio/static/css/main.96d5061c.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.854e865dada0b236c44b96749a94f376.js": "/portfolio/precache-manifest.854e865dada0b236c44b96749a94f376.js",
+  "precache-manifest.68bc840550374fe4be629fdbcc6a0d71.js": "/portfolio/precache-manifest.68bc840550374fe4be629fdbcc6a0d71.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
